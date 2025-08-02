@@ -7,9 +7,8 @@ Welcome to the **Travellers Blog** – your go-to place for discovering beautifu
 - Responsive and modern UI
 - Organized travel categories
 - Smooth user experience
-
-## 🚀 Live Demo
-👉 [Click here to view the live site](harshithamrtravellersblog.netlify.app )
+## 🚀 Live Demo  
+👉 [Click here to view the live site](https://harshithamrtravellersblog.netlify.app)
 
 ## 🛠️ Built With
 - HTML
